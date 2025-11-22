@@ -1,0 +1,24 @@
+[
+    {
+        "Name": "Cam Cafe POS Shelves",
+        "ID": "67cf009601ea2703e430e6a0",
+        "Model": "camera",
+        "MAC": "68D79AE201C5",
+        "Connected": true,
+        "Recording": true,
+        "Resolution": "1920x1080",
+        "Firmware": "5.1.97",
+        "Last Seen": "2025-11-09T14:35:00.035000+00:00"
+    },
+    {
+        "Name": "Cam Front Entrance",
+        "ID": "6489d444035b2b03e400bff7",
+        "Model": "camera",
+        "MAC": "68D79AE204E9",
+        "Connected": true,
+        "Recording": true,
+        "Resolution": "1920x1080",
+        "Firmware": "5.1.97",
+        "Last Seen": "2025-11-09T14:35:00.262000+00:00"
+    }
+]
